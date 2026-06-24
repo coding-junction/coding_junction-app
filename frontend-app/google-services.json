@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "10842231323",
+    "project_id": "appcodingjunction",
+    "storage_bucket": "appcodingjunction.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10842231323:android:014e7886f8a864d3949ebe",
+        "android_client_info": {
+          "package_name": "com.codingjunction.cj"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTc9UiGUtnCf1O5etWziuAV_3CAZlDoXA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
